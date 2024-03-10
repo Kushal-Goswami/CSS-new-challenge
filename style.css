@@ -1,0 +1,26 @@
+body{
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+
+.card{
+    width: 300px;
+    margin: 120px auto;
+    border-radius: 8px;
+    border: none;
+    background-color: #eee;
+    transform: rotate(5deg);
+    
+}
+
+.burger-img{
+   width: 100%;
+   border-radius: 14px;
+   border-bottom-left-radius: 0 ;
+   border-bottom-right-radius:0 ;
+}
+
+.details{
+    padding: 10px;
+}
+
